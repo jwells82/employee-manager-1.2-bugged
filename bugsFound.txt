@@ -1,0 +1,45 @@
+Items that are Working
+There is a list of employees
+When an employee is clicked from the list their file is brought up containing ID, Name, Phone and Title 
+All fields except ID are editable
+Cancel button is enabled once changes are made and works as expected
+Save button is enabled when changes are made and works as expected
+Every field must be populated to save
+Information persisted after going to another name and then going back to new employee’s name
+Correct error message appears when an empty name field is submitted
+
+Action Items
+Add employee functionality is not working as expected. 
+Add Employee does not add a new file, but makes a space on the list. It doesn’t add New Employee to the list after Add Employee is clicked on. This is because there is no element for New Employee. 
+Has new file card with new ID but fields are blank and has error message for each field
+
+Employee List 
+When clicking on name in list dashes appear in between letters of employee’s name  i.e. Expected Bernice Ortiz-Ti but got "B-e-r-n-i-c-e- -O-r-t-i-z---T-i"
+
+
+Name Field
+Displays error message for name when >30 characters are entered
+Displays error message for title when >30 characters are entered
+
+Phone Field
+Correct error message is displayed for empty string in phone field. Error messages for name and title disappear.
+
+Title Field
+Displays error message for name when >30 characters are entered
+Displays error message for title when >30 characters are entered
+
+Other issues discovered:
+App Version
+Version 1..2  is displayed
+Incorrect spelling of Save button: “Sieve” button instead of Save
+
+
+
+
+
+
+
+
+
+
+
